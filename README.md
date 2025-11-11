@@ -69,14 +69,6 @@ Omnifood/
 4. **Or view it live**
    👉 [Omnifood Live Website](https://omnifood-onkar-dh32.netlify.app/)
 
----
-
-## 📸 Screenshots
-
-Desktop Version 
-<img width="1347" height="608" alt="image" src="https://github.com/user-attachments/assets/5f197858-1a9e-42b5-adae-824df92dc96c" />
-<img width="1349" height="643" alt="image" src="https://github.com/user-attachments/assets/0b0f19ee-5699-4e01-8512-050589040d0d" />
-
 
 ---
 
